@@ -27,14 +27,14 @@
             android:layout_weight="1"
             android:background="@drawable/gallo" />
 
-        <Button
+        <ImageButton
             android:id="@+id/btn2"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/cantaro" />
 
-        <Button
+        <ImageButton
             android:id="@+id/btn3"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -42,7 +42,7 @@
             android:background="@drawable/bota" />
 
 
-        <Button
+        <ImageButton
             android:id="@+id/btn4"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -57,7 +57,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <Button
+        <ImageButton
             android:id="@+id/btn5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -65,7 +65,7 @@
             android:background="@drawable/valiente" />
 
 
-        <Button
+        <ImageButton
             android:id="@+id/btn6"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -73,7 +73,7 @@
             android:background="@drawable/arana" />
 
 
-        <Button
+        <ImageButton
             android:id="@+id/btn7"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -81,7 +81,7 @@
             android:background="@drawable/borracho" />
 
 
-        <Button
+        <ImageButton
             android:id="@+id/btn8"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -96,7 +96,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <Button
+        <ImageButton
             android:id="@+id/btn9"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -104,7 +104,7 @@
             android:background="@drawable/melon" />
 
 
-        <Button
+        <ImageButton
             android:id="@+id/btn10"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -112,14 +112,14 @@
             android:background="@drawable/pajaro" />
 
 
-        <Button
+        <ImageButton
             android:id="@+id/btn11"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/estrella" />
 
-        <Button
+        <ImageButton
             android:id="@+id/btn12"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -134,28 +134,28 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <Button
+        <ImageButton
             android:id="@+id/btn13"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/rosa" />
 
-        <Button
+        <ImageButton
             android:id="@+id/btn14"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/venado" />
 
-        <Button
+        <ImageButton
             android:id="@+id/btn15"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@drawable/rana" />
 
-        <Button
+        <ImageButton
             android:id="@+id/btn16"
             android:layout_width="0dp"
             android:layout_height="match_parent"

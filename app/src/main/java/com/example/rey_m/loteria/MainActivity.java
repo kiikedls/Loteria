@@ -11,8 +11,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    Button  btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn10, btn11, btn12, btn13, btn14, btn15, btn16;
-    ImageButton btn1;
+    ImageButton btn1,btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn10, btn11, btn12, btn13, btn14, btn15, btn16;
     TextView mensaje;
     int contador = 0;
 
@@ -63,66 +62,82 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btn1:
                 contador++;
                 btn1.setEnabled(false);
+                btn1.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn2:
                 contador++;
                 btn2.setEnabled(false);
+                btn2.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn3:
                 contador++;
                 btn3.setEnabled(false);
+                btn3.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn4:
                 contador++;
                 btn4.setEnabled(false);
+                btn4.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn5:
                 contador++;
                 btn5.setEnabled(false);
+                btn5.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn6:
                 contador++;
                 btn6.setEnabled(false);
+                btn6.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn7:
                 contador++;
                 btn7.setEnabled(false);
+                btn7.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn8:
                 contador++;
                 btn8.setEnabled(false);
+                btn8.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn9:
                 contador++;
                 btn9.setEnabled(false);
+                btn9.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn10:
                 contador++;
                 btn10.setEnabled(false);
+                btn10.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn11:
                 contador++;
                 btn11.setEnabled(false);
+                btn11.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn12:
                 contador++;
                 btn12.setEnabled(false);
+                btn12.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn13:
                 contador++;
                 btn13.setEnabled(false);
+                btn13.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn14:
                 contador++;
                 btn14.setEnabled(false);
+                btn14.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn15:
                 contador++;
                 btn15.setEnabled(false);
+                btn15.setImageResource(R.drawable.frijolito);
                 break;
             case R.id.btn16:
                 contador++;
                 btn16.setEnabled(false);
+                btn16.setImageResource(R.drawable.frijolito);
                 break;
 
         }
